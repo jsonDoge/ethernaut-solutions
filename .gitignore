@@ -1,0 +1,10 @@
+.vscode
+artifacts
+cache
+contracts
+node_modules
+scripts
+config.secret.js
+package.json
+yarn.lock
+hardhat.config.js
