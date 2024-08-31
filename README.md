@@ -1,4 +1,4 @@
-# Ethernau solutions
+# Ethernaut solutions
 
 This repository contains the solutions to the OpenZeppelin ethereum coding challenge "Ethernaut".
 
