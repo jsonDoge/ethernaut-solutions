@@ -8,3 +8,4 @@ config.secret.js
 package.json
 yarn.lock
 hardhat.config.js
+.prettierrc
