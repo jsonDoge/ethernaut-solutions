@@ -13,7 +13,7 @@ contract ReentranceExploit {
 
     // Don't forget to fund the contract during deployment
     // The amount ideally should be equal to the target contracts
-    constructor (address payable targetAddr) public payable {
+    constructor(address payable targetAddr) public payable {
         r = Reentrance(targetAddr);
         depositAmount = msg.value;
     }
@@ -28,4 +28,3 @@ contract ReentranceExploit {
     }
 }
 ```
-
